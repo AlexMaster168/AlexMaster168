@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hello, Guys! 👋
+<hr>
 
-<!--
-**AlexMaster168/AlexMaster168** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 😄 About me 
 
-Here are some ideas to get you started:
+✌️ My name is Alexey, I am 18 years old. I have been doing programming for about 4 years, trying out different technologies. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓I am student in State Intellectual Institute of Communications.
+
+👩‍💻 My experience is React junior in Asferro from January to February 2022
+
+Something about me:
+
+- 🌱 I’m looking for work 😯
+- 📫 How to reach me: [Telegram](https://t.me/AlexMaster168) 💕
+- ⚡️  I am interested in programming, swimming and learning English 😏
+
+## 📈 GitHub Stats
+
+![EnjiRouz GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexMaster168&count_private=true&hide=contribs&show_icons=true&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMaster168&count_private=true&hide=tsql&langs_count=7&theme=radical&layout=compact)
+
+My technology stack and profession:
+
+- 🤠 Js & React & Redux & Next.js & Mobx & TypeScript & NodeJS & PostgreSQL & NestJS & Express & MongoDB & Vue & Vue Router & Vuex & RxJS & docker🎶
+- 😯 Full Stack Web Developer 😘
