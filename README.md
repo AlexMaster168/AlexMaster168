@@ -3,7 +3,7 @@
 
 ## 😄 About me 
 
-✌️ My name is Alexey, I am 19 years old. I have been doing programming for about 5 years, trying out different technologies. 
+✌️ My name is Alexey, I am 20 years old. I have been doing programming for about 6 years, trying out different technologies. 
 
 🎓I am student in State Intellectual Institute of Communications.
 
@@ -22,5 +22,5 @@ Something about me:
 
 My technology stack and profession:
 
-- 🤠 Js & React & Redux & Next.js & Mobx & TypeScript & NodeJS & PostgreSQL & NestJS & Express & MongoDB & Vue & Vue Router & Vuex & RxJS & docker🎶
+- 🤠 Js & React & Redux & Next.js & Mobx & TypeScript & NodeJS & PostgreSQL & NestJS & Express & MongoDB & Vue & Vue Router & Vuex & RxJS & Angular & docker🎶
 - 😯 Full Stack Web Developer 😘
