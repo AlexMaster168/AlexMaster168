@@ -3,7 +3,7 @@
 
 ## 😄 About me 
 
-✌️ My name is Alexey, I am 20 years old. I have been doing programming for about 6 years, trying out different technologies. 
+✌️ My name is Alexey, I am 21 years old. I have been doing programming for about 6 years, trying out different technologies. 
 
 🎓I am student in State Intellectual Institute of Communications.
 
