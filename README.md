@@ -3,11 +3,13 @@
 
 ## 😄 About me 
 
-✌️ My name is Alexey, I am 21 years old. I have been doing programming for about 6 years, trying out different technologies. 
+✌️ My name is Oleksil, I am 21 years old. I have been doing programming for about 6 years, trying out different technologies. 
 
 🎓I am student in State Intellectual Institute of Communications.
 
-👩‍💻 My experience is React junior in Asferro from January to February 2022
+👩‍💻 My experience is React junior in Asferro from January to February 2022 
+Refactoring of administrative information panel project from GraphQL Apollo to REST API.
+Contributed to a full-stack development team until the company ceased operations due to war.
 
 Something about me:
 
