@@ -3,9 +3,9 @@
 
 ## 😄 About me 
 
-✌️ My name is Oleksil, I am 21 years old. I have been doing programming for about 6 years, trying out different technologies. 
+✌️ My name is Oleksil, I am 22 years old. I have been doing programming for about 7 years, trying out different technologies. 
 
-🎓I am student in State Intellectual Institute of Communications.
+🎓I am student in State University of Intelligent Technologies and Telecommunications.
 
 👩‍💻 My experience is React junior at Asferro from January to February 2022 
 Refactoring of administrative information panel project from GraphQL Apollo to REST API.
