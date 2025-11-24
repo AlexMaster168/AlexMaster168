@@ -2,7 +2,7 @@
 ### Full-Stack JavaScript Developer | Data Science Engineer
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-blue?style=for-the-badge&logo=telegram)](https://t.me/AlexMaster168)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL_HERE)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/oleksii-silveistruk-03224b24b)
 
 ---
 
@@ -76,6 +76,25 @@ I actively participate in the scientific community, researching modern trends in
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexMaster168&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMaster168&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180" alt="languages" />
+
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=AlexMaster168&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="trophies" />
+  </a>
+
+  <br/>
+  <br/>
+
+  <a href="https://github.com/AlexMaster168">
+    <img src="https://github-readme-stats.vercel.app/api?username=AlexMaster168&show_icons=true&count_private=true&theme=radical&hide_border=true" height="180" alt="stats" />
+  </a>
+  <a href="https://github.com/AlexMaster168">
+    <img src="https://streak-stats.demolab.com?user=AlexMaster168&theme=radical&hide_border=true" height="180" alt="streak" />
+  </a>
+
+  <br/>
+
+  <a href="https://github.com/AlexMaster168">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMaster168&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180" alt="languages" />
+  </a>
+
 </div>
