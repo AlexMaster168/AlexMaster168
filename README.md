@@ -14,7 +14,7 @@ My goal is to build scalable web applications and integrate AI solutions into re
 
 * 🔭 **Currently working on:** Advanced Full-Stack architectures & AI integration.
 * 🎓 **Education:** Bachelor's Degree in Computer Science (Top Performer).
-* 💼 **Open to:** Freelance projects and Full-time opportunities (Relocation ready).
+* 💼 **Open to:** Freelance projects and Full-time opportunities.
 
 ---
 
