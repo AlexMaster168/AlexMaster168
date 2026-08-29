@@ -1,80 +1,199 @@
-# Hi there, I'm Oleksii Silveistruk 👋
-### Full-Stack JavaScript Developer | Data Science Engineer
+<div align="center">
 
-[![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-blue?style=for-the-badge&logo=telegram)](https://t.me/AlexMaster168)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/oleksii-silveistruk-03224b24b)
+<img src="https://github.com/AlexMaster168/AlexMaster168/blob/output/github-contribution-grid-snake-dark.svg?raw=true" width="100%"/>
 
----
+# Hey, I'm Oleksii Silveistruk 👋
 
-### 🚀 About Me
+### Full-Stack Developer | Cybersecurity | Data Science
 
-I am a passionate software engineer based in **Odesa, Ukraine**, with a strong background in **Full-Stack Web Development** and **Data Science**. Currently finishing my Bachelor's degree in Computer Science at the State University of Intellectual Technologies and Communications.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%9A%80+Full-Stack+Developer+%7C+Cybersecurity+Specialist;Building+Secure+%26+Scalable+Applications;Odesa%2C+Ukraine+%F0%9F%87%BA%F0%9F%87%A6)"/>
 
-My goal is to build scalable web applications and integrate AI solutions into real-world projects. I combine technical expertise with scientific research, having presented papers at international conferences.
+<a href="https://t.me/AlexMaster168">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
+<a href="https://www.linkedin.com/in/oleksii-silveistruk-03224b24b">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:asilvejstruk@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-* 🔭 **Currently working on:** Advanced Full-Stack architectures & AI integration.
-* 🎓 **Education:** Bachelor's Degree in Computer Science (Top Performer).
-* 💼 **Open to:** Freelance projects and Full-time opportunities.
-
----
-
-### 🛠️ Technical Stack
-
-**Frontend Development**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)
-
-**Backend Development**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-
-**AI & Data Science**
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-
-**Database & DevOps & Security**
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=flat&logo=snyk&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
+</div>
 
 ---
 
-### 💡 Key Experience & Projects
+## 🧑‍💻 About Me
 
-* **"Ukrainian YouTube" Platform (Science Skills Booster 2024)**
-    * Built a scalable content-sharing platform using **Next.js** (SSR/SSG) and **NestJS**.
-    * Implemented secure JWT authentication and PostgreSQL database integration.
-    * *Focus: Type safety, modular architecture, and clean code principles (SOLID, DRY).*
-
-* **Asferro (Junior Frontend Developer)**
-    * Refactored administrative panels from **GraphQL Apollo** to **REST API**.
-    * Contributed to a high-load production environment before operations ceased due to the war.
+```typescript
+const oleksii = {
+  name: "Oleksii Silveistruk",
+  title: "Full-Stack JavaScript Developer & Data Science Engineer",
+  location: "Odesa, Ukraine 🇺🇦 | Open to Relocation",
+  email: "asilvejstruk@gmail.com",
+  education: {
+    bachelor: "Computer Science (100/100) — SUITT, Graduated 2025",
+    master: "Cybersecurity & Information Protection — SUITT, Sep 2025 – Dec 2026 🎓",
+  },
+  currentFocus: [
+    "Full-Stack Web Architecture",
+    "Cybersecurity & Penetration Testing",
+    "AI / Machine Learning Integration",
+  ],
+  languages: ["English", "Ukrainian", "Russian"],
+  funFact: "I present research at international conferences while writing secure code 🛡️",
+};
+```
 
 ---
 
-### 🏆 Scientific Achievements
+## 🎓 Education
 
-I actively participate in the scientific community, researching modern trends in CS and AI:
-* 📄 **Boston, USA (Dec 2024):** Presented research at the V International Scientific-Practical Conference.
-* 📄 **Barcelona, Spain (Dec 2024):** Speaker at the XII International Scientific-Practical Conference "European Congress of Scientific Achievements".
-* 📄 **Innovation Hub:** Regular participant in university Hackathons.
+| Degree | Institution | Period | Status |
+|--------|------------|--------|--------|
+| 🎓 **Bachelor's** in Computer Science (100/100) | State University of Intellectual Technologies and Communications | 2020 – 2025 | ✅ Completed |
+| 🛡️ **Master's** in Cybersecurity & Information Protection | State University of Intellectual Technologies and Communications | Sep 2025 – Dec 2026 | 🔄 In Progress |
 
 ---
 
-### 📈 GitHub Stats
+## 🛠️ Tech Stack
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=AlexMaster168&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-![EnjiRouz GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexMaster168&count_private=true&hide=contribs&show_icons=true&theme=cobalt)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMaster168&count_private=true&hide=tsql&langs_count=7&theme=radical&layout=compact)
+<details>
+<summary><b>⚛️ Frontend</b></summary>
+<br>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>⚙️ Backend</b></summary>
+<br>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🤖 AI & Data Science</b></summary>
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🗄️ Database & DevOps</b></summary>
+<br>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</details>
+
+<details>
+<summary><b>🛡️ Cybersecurity & QA</b></summary>
+<br>
+
+![OWASP](https://img.shields.io/badge/OWASP-005A65?style=for-the-badge&logo=owasp&logoColor=white)
+![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
+![Semgrep](https://img.shields.io/badge/Semgrep-330C6E?style=for-the-badge&logo=semgrep&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-46843E?style=for-the-badge&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+</details>
+
+---
+
+---
+
+## 💼 Experience
+
+| Role | Company | Period | Highlights |
+|------|---------|--------|------------|
+| 🔧 **Junior Frontend Developer** | Asferro | Jan 2022 – Feb 2022 | Refactored admin panels from GraphQL → REST API |
+| 🛠️ **Full-Stack Intern** | ISyb | Feb 2024 – Mar 2024 | E-commerce website for auto parts (React, Node.js, TS) |
+| 💻 **Front-End Intern** | EPAM Systems | Feb 2025 – Mar 2025 | Front-End Development Course |
+| 🏠 **Freelance** | Various Clients | Ongoing | Multiple e-commerce websites |
+
+---
+
+## 🏆 Scientific Achievements
+
+| Conference | Location | Date | Publication |
+|-----------|----------|------|-------------|
+| 📄 V International Scientific-Practical Conference | **Boston, USA** | Dec 2024 | pp. 269–274 |
+| 📄 XII European Congress of Scientific Achievements | **Barcelona, Spain** | Dec 2024 | pp. 206–210 |
+| 📄 79th Scientific-Technical Conference | SUITT | Nov 2024 | pp. 185–187 |
+| 📄 80th Scientific-Technical Conference | SUITT | Feb 2026 | pp. 296–300 |
+
+---
+
+## 📜 Certifications
+
+- 🏅 **EPAM Systems** — Front-End Fundamentals Course
+- 🏅 **V International Scientific-Practical Conference** — Participation Certificate (Boston, 2024)
+- 🏅 **XII European Congress of Scientific Achievements** — Participation Certificate (Barcelona, 2024)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/AlexMaster168">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexMaster168&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMaster168&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+</a>
+
+<br/>
+
+<a href="https://github.com/AlexMaster168">
+  <img src="https://github-profile-trophy.vercel.app/?username=AlexMaster168&theme=radical&no-frame=true&no-bg=true&column=7" />
+</a>
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<img src="https://github.com/AlexMaster168/AlexMaster168/blob/output/github-contribution-grid-snake-dark.svg?raw=true" width="100%"/>
+
+---
+
+<div align="center">
+
+### 💬 "Building secure, scalable, and intelligent software — one commit at a time."
+
+![Visitor Count](https://komarev.com/ghpvc/?username=AlexMaster168&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
