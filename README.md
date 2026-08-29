@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer | Cybersecurity | Data Science
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=Full-Stack+Developer;Cybersecurity+Specialist;Odesa,+Ukraine)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=90&lines=Full-Stack+Developer;Cybersecurity+Specialist;Odesa,+Ukraine)](https://git.io/typing-svg)
 
 <a href="https://t.me/AlexMaster168">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
@@ -26,7 +26,7 @@
 const oleksii = {
   name: "Oleksii Silveistruk",
   title: "Full-Stack JavaScript Developer & Data Science Engineer",
-  location: "Odesa, Ukraine | Open to Relocation",
+  location: "Odesa, Ukraine | No Relocation",
   email: "asilvejstruk@gmail.com",
   education: {
     bachelor: "Computer Science (100/100) - SUITT, Graduated 2025",
@@ -164,11 +164,9 @@ const oleksii = {
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexMaster168&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/AlexMaster168)
+[![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexMaster168&theme=radical)](https://github.com/AlexMaster168)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMaster168&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/AlexMaster168)
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=AlexMaster168&theme=radical&no-frame=true&no-bg=true&column=7)](https://github.com/AlexMaster168)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AlexMaster168&theme=radical&hide_border=true)](https://github.com/AlexMaster168)
 
 </div>
 
