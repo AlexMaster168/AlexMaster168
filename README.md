@@ -1,8 +1,10 @@
 <div align="center">
 
-# Hey, I'm Oleksii Silveistruk
+# Hey, I'm Oleksii Silveistruk 👋
 
 ### Full-Stack Developer | Cybersecurity | Data Science
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=Full-Stack+Developer;Cybersecurity+Specialist;Odesa,+Ukraine)](https://git.io/typing-svg)
 
 <a href="https://t.me/AlexMaster168">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
@@ -18,31 +20,39 @@
 
 ---
 
-## About Me
+## 🧑‍💻 About Me
 
-- **Name:** Oleksii Silveistruk
-- **Title:** Full-Stack JavaScript Developer & Data Science Engineer
-- **Location:** Odesa, Ukraine | Open to Relocation
-- **Email:** asilvejstruk@gmail.com
-- **Education:**
-  - Bachelor's in Computer Science (100/100) — SUITT, Graduated 2025
-  - Master's in Cybersecurity & Information Protection — SUITT, Sep 2025 – Dec 2026
-- **Current Focus:** Full-Stack Web Architecture, Cybersecurity & Penetration Testing, AI / Machine Learning
-- **Languages:** English, Ukrainian, Russian
-- I present research at international conferences while writing secure code
+```typescript
+const oleksii = {
+  name: "Oleksii Silveistruk",
+  title: "Full-Stack JavaScript Developer & Data Science Engineer",
+  location: "Odesa, Ukraine | Open to Relocation",
+  email: "asilvejstruk@gmail.com",
+  education: {
+    bachelor: "Computer Science (100/100) - SUITT, Graduated 2025",
+    master: "Cybersecurity & Information Protection - SUITT, Sep 2025 - Dec 2026",
+  },
+  currentFocus: [
+    "Full-Stack Web Architecture",
+    "Cybersecurity & Penetration Testing",
+    "AI / Machine Learning Integration",
+  ],
+  languages: ["English", "Ukrainian", "Russian"],
+};
+```
 
 ---
 
-## Education
+## 🎓 Education
 
 | Degree | Institution | Period | Status |
 |--------|------------|--------|--------|
-| **Bachelor's** in Computer Science (100/100) | State University of Intellectual Technologies and Communications | 2020 – 2025 | Completed |
-| **Master's** in Cybersecurity & Information Protection | State University of Intellectual Technologies and Communications | Sep 2025 – Dec 2026 | In Progress |
+| 🎓 **Bachelor's** in Computer Science (100/100) | State University of Intellectual Technologies and Communications | 2020 - 2025 | ✅ Completed |
+| 🛡️ **Master's** in Cybersecurity & Information Protection | State University of Intellectual Technologies and Communications | Sep 2025 - Dec 2026 | 🔄 In Progress |
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <details>
 <summary><b>Frontend</b></summary>
@@ -120,45 +130,45 @@
 
 ---
 
-## Experience
+## 💼 Experience
 
 | Role | Company | Period | Highlights |
 |------|---------|--------|------------|
-| Junior Frontend Developer | Asferro | Jan 2022 – Feb 2022 | Refactored admin panels from GraphQL to REST API |
-| Full-Stack Intern | ISyb | Feb 2024 – Mar 2024 | E-commerce website for auto parts (React, Node.js, TS) |
-| Front-End Intern | EPAM Systems | Feb 2025 – Mar 2025 | Front-End Development Course |
-| Freelance | Various Clients | Ongoing | Multiple e-commerce websites |
+| 🔧 **Junior Frontend Developer** | Asferro | Jan 2022 - Feb 2022 | Refactored admin panels from GraphQL to REST API |
+| 🛠️ **Full-Stack Intern** | ISyb | Feb 2024 - Mar 2024 | E-commerce website for auto parts (React, Node.js, TS) |
+| 💻 **Front-End Intern** | EPAM Systems | Feb 2025 - Mar 2025 | Front-End Development Course |
+| 🏠 **Freelance** | Various Clients | Ongoing | Multiple e-commerce websites |
 
 ---
 
-## Scientific Achievements
+## 🏆 Scientific Achievements
 
 | Conference | Location | Date | Publication |
 |-----------|----------|------|-------------|
-| V International Scientific-Practical Conference | Boston, USA | Dec 2024 | pp. 269-274 |
-| XII European Congress of Scientific Achievements | Barcelona, Spain | Dec 2024 | pp. 206-210 |
-| 79th Scientific-Technical Conference | SUITT | Nov 2024 | pp. 185-187 |
-| 80th Scientific-Technical Conference | SUITT | Feb 2026 | pp. 296-300 |
+| 📄 V International Scientific-Practical Conference | **Boston, USA** | Dec 2024 | pp. 269-274 |
+| 📄 XII European Congress of Scientific Achievements | **Barcelona, Spain** | Dec 2024 | pp. 206-210 |
+| 📄 79th Scientific-Technical Conference | SUITT | Nov 2024 | pp. 185-187 |
+| 📄 80th Scientific-Technical Conference | SUITT | Feb 2026 | pp. 296-300 |
 
 ---
 
-## Certifications
+## 📜 Certifications
 
-- **EPAM Systems** — Front-End Fundamentals Course
-- **V International Scientific-Practical Conference** — Participation Certificate (Boston, 2024)
-- **XII European Congress of Scientific Achievements** — Participation Certificate (Barcelona, 2024)
+- 🏅 **EPAM Systems** - Front-End Fundamentals Course
+- 🏅 **V International Scientific-Practical Conference** - Participation Certificate (Boston, 2024)
+- 🏅 **XII European Congress of Scientific Achievements** - Participation Certificate (Barcelona, 2024)
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexMaster168&show_icons=true&theme=radical&hide_border=true&count_private=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexMaster168&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/AlexMaster168)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMaster168&layout=compact&theme=radical&hide_border=true&langs_count=8)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMaster168&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/AlexMaster168)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=AlexMaster168&theme=radical&no-frame=true&no-bg=true&column=7)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=AlexMaster168&theme=radical&no-frame=true&no-bg=true&column=7)](https://github.com/AlexMaster168)
 
 </div>
 
@@ -166,7 +176,7 @@
 
 <div align="center">
 
-**Building secure, scalable, and intelligent software — one commit at a time.**
+### "Building secure, scalable, and intelligent software — one commit at a time."
 
 ![Visitors](https://komarev.com/ghpvc/?username=AlexMaster168&color=00D4FF&style=flat&label=PROFILE+VIEWS)
 
